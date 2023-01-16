@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/crud-react-api/static/css/main.56ea802a.css",
+    "main.js": "/crud-react-api/static/js/main.0607d029.js",
+    "static/media/fa-solid-900.ttf": "/crud-react-api/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/fa-brands-400.ttf": "/crud-react-api/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
+    "static/media/fa-solid-900.woff2": "/crud-react-api/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/fa-brands-400.woff2": "/crud-react-api/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
+    "static/media/fa-regular-400.ttf": "/crud-react-api/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/fa-regular-400.woff2": "/crud-react-api/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/fa-v4compatibility.ttf": "/crud-react-api/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
+    "static/media/fa-v4compatibility.woff2": "/crud-react-api/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
+    "index.html": "/crud-react-api/index.html",
+    "main.56ea802a.css.map": "/crud-react-api/static/css/main.56ea802a.css.map",
+    "main.0607d029.js.map": "/crud-react-api/static/js/main.0607d029.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56ea802a.css",
+    "static/js/main.0607d029.js"
+  ]
+}
